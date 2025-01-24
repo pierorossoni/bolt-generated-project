@@ -1,0 +1,16 @@
+{
+  "name": "rastreador-de-despesas-pessoais",
+  "version": "1.0.0",
+  "description": "Um simples rastreador de despesas pessoais",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "vite": "^4.2.0"
+  }
+}
